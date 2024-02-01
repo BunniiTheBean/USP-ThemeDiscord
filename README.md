@@ -1,5 +1,5 @@
 # USP-ThemeDiscord
-![Image alt](https://So1ta.github.io/Images/kurumi-view.png)
+![Image alt](https://So1ta.github.io/Images/USP-ThemeView.png)
 
 Тема для Discord под названием Kurumi
 
