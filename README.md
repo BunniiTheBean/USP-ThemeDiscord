@@ -1,23 +1,23 @@
 # USP-ThemeDiscord
 ![Image alt](https://So1ta.github.io/Images/USP-ThemeView.png)
 
-Тема для Discord под названием Kurumi
+Тема для Discord под названием USP-Anime
 
 ## Установка
 
 1. Для работы темы нужно установить [BetterDiscord](https://betterdiscord.app/themes).
 
-2. Файл "kurumi.theme.css" нужно перекинуть в папку Themes.
+2. Файл "usp.theme.css" нужно перекинуть в папку Themes.
 
 ## English version
 
-Theme for Discord - Kurumi
+Theme for Discord - USP-Anime
 
 ## Installing
 
 1. For the theme to work you need [BetterDiscord](https://betterdiscord.app/themes).
 
-2. The file "kurumi.theme.css" must be transferred to the Themes.
+2. The file "usp.theme.css" must be transferred to the Themes.
 
 ## Thanks
 
